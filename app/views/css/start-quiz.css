@@ -1,0 +1,34 @@
+.holder {
+    background: #202020;
+    min-height: 100vh;
+  }
+
+  .text-gray {
+    color: #aaa;
+  }
+  
+  input + label {
+    color: #adb5bd;
+  }
+  input:checked + label{
+    color: black;
+  }
+  
+  label {
+    cursor: pointer;
+  }
+  
+  a {
+    text-decoration: none;
+  }
+  body {
+    background: #eee
+}
+.content{
+  font-weight: 900;
+  color: white;
+  font-size: 80px;
+}
+.fst-italic{
+  color: white;
+}

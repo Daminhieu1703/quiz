@@ -1,0 +1,35 @@
+.list-group {
+    width: 830px !important;
+    margin-bottom: 1rem !important;
+}
+.mb-0{
+    padding-right: 270px
+}
+.list-group-item {
+    width: 830px;
+    margin-top: 10px;
+    border-radius: none;
+    background: white;
+    cursor: pointer;
+    transition: all 0.3s ease-in-out
+}
+
+.list-group-item:hover {
+    transform: scaleX(1.1)
+}
+
+.about span {
+    font-size: 12px;
+    margin-right: 10px
+}
+.about>span>.hidden{
+    font-size: 15px;
+    color: green;
+}
+.about>span>.none{
+    font-size: 15px;
+    color: red;
+}
+.ml-2 a h6{
+    color: black;
+}
